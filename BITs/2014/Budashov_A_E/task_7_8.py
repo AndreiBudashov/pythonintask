@@ -22,5 +22,8 @@ while(otvet)!=(rand):
 	elif (otvet)==(rand):
 		print ("Вы угадали, ваш балл за ответ")
 		print (ball)
-		
+	elif(otvet)==(Подсказка)
+		for letter in otvet:
+			print(letter)
+			
 input ("Press Enter to close")
